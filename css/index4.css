@@ -1,0 +1,142 @@
+html, body, div, span,h1, h2, h3, ul, li,p{margin: 0;padding: 0;}
+
+body {
+	background-color:eff0bf;
+	margin: 0;
+	padding: 0;
+}
+body,p {
+	font:12px/1 "\u5b8b\u4f53", Tahoma, Geneva, sans-serif;
+	color:#333;
+	font-family: "Microsoft YaHei";
+}
+.blank{
+	width:100%;
+	height:40px
+}
+.background {	
+	width:100%;
+	margin:0 auto;
+}
+.background .inner{
+	width:1000px;
+	margin:0 auto;
+}
+.menu .inner{
+	width:1000px;
+	margin:0 auto;
+	height: 41px;
+    line-height: 41px;
+	color: #fff;
+	text-align: center;
+}
+.menu{
+	background-color:d9d564;
+	margin:10px auto;
+	height: 41px;
+}
+#top{
+	margin:0px auto;
+}
+nav {
+    margin: 0 auto;
+	padding: 0px;
+	width: 100%;
+	height: 41px;
+	display: block;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0px;
+	width: 1000px;
+	height: 41px;
+}
+nav ul li {
+	float: left;
+	width: 196px;
+	text-align: center;
+	border:2px solid white;
+}
+
+nav ul li a{
+	height: 41px;
+    line-height: 41px;
+	font-size: 16px;
+    font-weight: normal;
+    color: #fff;
+	text-align: center;
+	font-family: "Microsoft Yahei";
+	text-decoration: none;
+	padding: 0 25px;
+}
+nav ul li:hover {
+	background-color: c2ac54;
+}
+#bg1{
+	background:url(../img4/bg1.jpg) no-repeat 0px 0px;
+	background-size:cover;
+}
+#Mmain{
+	background:url(../img4/beijing.jpg) 0px 0px;
+}
+.main{
+	height: 720px;
+}
+.m11{
+	float: left;
+	margin:0px 20px 0px 0px;
+	width:380px;
+}
+.m12{
+	float: left;
+	width:600px;
+}
+.m121{
+	margin:0px 0px 20px 0px;
+}
+.m122{
+}
+.m1221{
+	float: left;
+	margin:0px 20px 0px 0px;
+}
+.m1222{
+	float: left;	
+}
+.m21{
+	width:600px;
+	float: left;
+	margin:0px 20px 0px 0px;
+}
+.m22{
+	width:380px;
+	float: left;
+}
+.m211{
+	float: left;
+	margin:0px 0px 20px 0px;
+}
+.m212{
+}
+.m2121{
+	float: left;
+	margin:0px 20px 0px 0px;
+}
+.m2122{
+	float: left;
+}
+#tail{
+	height: 60px;
+	background-color:dac46b;
+}
+#tail .inner{
+	height:40px;
+	background-color:f1df94;
+	text-align: center;
+	padding: 10px 40px;
+}
+#tail .inner p{
+	color:ffffff;
+	font-size:130%;
+}

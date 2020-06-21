@@ -1,0 +1,146 @@
+html, body, div, span,h1, h2, h3, ul, li,p{margin: 0;padding: 0;}
+
+body {
+	background-color:bde2f5;
+	margin: 0;
+	padding: 0;
+}
+body,p {
+	font:12px/1 "\u5b8b\u4f53", Tahoma, Geneva, sans-serif;
+	color:#333;
+	font-family: "Microsoft YaHei";
+}
+.blank{
+	width:100%;
+	height:40px
+}
+.background {	
+	width:100%;
+	margin:0 auto;
+}
+.background .inner{
+	width:1000px;
+	margin:0 auto;
+}
+.menu .inner{
+	width:1000px;
+	margin:0 auto;
+	height: 41px;
+    line-height: 41px;
+	color: #fff;
+	text-align: center;
+}
+.menu{
+	background-color:80c0e3;
+	margin:10px auto 0px auto;
+	height: 41px;
+}
+#top{
+	margin:0px auto;
+}
+nav {
+    margin: 0 auto;
+	padding: 0px;
+	width: 100%;
+	height: 41px;
+	display: block;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0px;
+	width: 1000px;
+	height: 41px;
+}
+nav ul li {
+	float: left;
+	width: 196px;
+	text-align: center;
+	border:2px solid white;
+}
+
+nav ul li a{
+	height: 41px;
+    line-height: 41px;
+	font-size: 16px;
+    font-weight: normal;
+    color: #fff;
+	text-align: center;
+	font-family: "Microsoft Yahei";
+	text-decoration: none;
+	padding: 0 25px;
+}
+nav ul li:hover {
+	background-color: 5f63d9;
+}
+#bg1{
+	background:url(../img2/bg1.jpg) 0px 0px;
+}
+#Mmain{
+	background:url(../img2/shuimian.jpg) 0px 0px;
+}
+.main{
+	
+}
+#main1{
+	height: 240px;
+	background-color: e3edf3;
+}
+#main2{
+	background-color: b8dff4;
+}
+.touxiang{
+	float: left;
+	margin:6px 20px 6px 100px;
+}
+.ziliao{
+	float: left;
+	margin:20px 100px 20px 100px;
+}
+.ziliao h2{
+	margin: 10px auto;
+	width:150px;
+	color:315c73;
+}
+.ziliao ul{
+	margin: 10px 10px;
+	line-height:1.6em;
+	color:496db4;
+	font-size:130%;
+	border-top:2px solid white;
+	border-bottom:2px solid white;
+}
+.kebiao{
+	text-align: center;
+	border-top:2px solid 56a3cd;
+	margin: 15px 100px;
+}
+.kebiao img{
+	margin: 15px 0px 0px 0px;
+}
+.kebiao p{
+	border-left:2px solid white;
+	border-right:2px solid white;
+	border-bottom:2px solid white;
+	margin: 0px 50px 10px 50px;
+	font-size:120%;
+	line-height:1.6em;
+	text-align: left;
+	padding: 10px 40px;
+	color:3084b0;
+}
+
+#tail{
+	height: 60px;
+	background-color:5a96b7;
+}
+#tail .inner{
+	height:40px;
+	background-color:92b0c1;
+	text-align: center;
+	padding: 10px 40px;
+}
+#tail .inner p{
+	color:ffffff;
+	font-size:130%;
+}
